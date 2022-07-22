@@ -1,0 +1,29 @@
+{
+  "name": "test-dz2",
+  "version": "1.0.0",
+  "description": "testinggg",
+  "main": "index.js",
+  "scripts": {
+    "test": "tiktik",
+    "start": "node ./app.js",
+    "monstart": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyLadySnezhka/dz-package-json-free.git"
+  },
+  "keywords": [
+    "test",
+    "json"
+  ],
+  "author": "Lorik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyLadySnezhka/dz-package-json-free/issues"
+  },
+  "homepage": "https://github.com/MyLadySnezhka/dz-package-json-free#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "momment": "^0.0.1"
+  }
+}
